@@ -1,0 +1,3 @@
+int* heapArray = new int[10]; // Allocate an array of 10 ints on the heap
+// ... use the array ...
+delete[] heapArray; // Deallocate the memory
