@@ -6,7 +6,7 @@
 #define DSA_TRAVERSING_H
 
 
-class traversing {
+class rotation {
 };
 
 
